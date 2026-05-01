@@ -4,3 +4,10 @@ docs/capstone-summary-1page.docx
 docs/capstone-report-draft.md
 docs/generate_docx.py
 docs/system_architecture.png
+
+# Python
+__pycache__/
+*.pyc
+
+# DB
+*.db
