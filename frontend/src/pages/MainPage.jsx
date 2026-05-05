@@ -1,5 +1,5 @@
 //import { db } from "../firebase"; // (실제 firebase 설정 파일 경로에 맞게)
-//import { collection, onSnapshot, query, orderBy, limit } from "firebase/firestore";
+//atimport { collection, onSnapshot, query, orderBy, limit } from "firebase/firestore";
 
 import { useState, useEffect } from "react";
 import styled from "@emotion/styled";
